@@ -66,4 +66,5 @@ p{
     color: white;
     font-size: 14px;
     margin: 10px;
+    whitespace: no-wrap;
 }
