@@ -71,5 +71,5 @@ p {
     color: white;
     font-size: 14px;
     margin: 10px;
-    text-wrap: nowrap;
+    whitespace: nowrap;
 }
